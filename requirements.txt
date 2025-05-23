@@ -1,0 +1,6 @@
+request
+pandas
+joblib
+scikit-learn
+re
+bs4
