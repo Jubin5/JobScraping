@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1U1hh6TlkZKqPUdCh0WsvISEVwvyhWz4I
 """
 
-!pip install streamlit pandas scikit-learn beautifulsoup4 requests
 
 import streamlit as st
 import pandas as pd
